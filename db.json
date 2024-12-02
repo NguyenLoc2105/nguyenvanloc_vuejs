@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "name": "tao",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Samsung"
+    }
+  ],
+  "users": [
+    {
+      "name": "Minh Lộc",
+      "email": "loc@gmail.com",
+      "phone": "0376203813",
+      "role": "User",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Hà Phương",
+      "email": "phuong@gmail.com",
+      "phone": "0814106610",
+      "role": "Admin"
+    },
+    {
+      "name": "Phương Minh",
+      "email": "locnvph53355@gmail.com",
+      "phone": "08141066810",
+      "role": "User",
+      "id": "3"
+    },
+    {
+      "name": "Lộc Nguyễn",
+      "email": "nguyenvanloc211005@gmail.com",
+      "phone": "0376203813",
+      "role": "User",
+      "id": "4"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone 14",
+      "description": "Điện thoại mới nhất",
+      "price": "120000000",
+      "category_id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Iphone 15",
+      "description": "Điện thoại mới nhất 2022",
+      "price": "320000000",
+      "category_id": "1"
+    },
+    {
+      "id": "3",
+      "name": "Samsung S22",
+      "description": "Điện thoại Android mới nhất",
+      "price": "420000000",
+      "category_id": "2"
+    }
+  ]
+}
